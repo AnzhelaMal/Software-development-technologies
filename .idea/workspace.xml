@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f42bf859-dd14-4e4c-b6db-08029d13acc2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lab3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/.idea/shell-file-manager-web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/data/shellfmdb.mv.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/src/main/java/ua/kpi/ia33/shellweb/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/src/main/java/ua/kpi/ia33/shellweb/domain/SearchQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/src/main/java/ua/kpi/ia33/shellweb/domain/SearchResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/src/main/java/ua/kpi/ia33/shellweb/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/src/main/java/ua/kpi/ia33/shellweb/repo/IRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/src/main/java/ua/kpi/ia33/shellweb/repo/SearchQueryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/src/main/java/ua/kpi/ia33/shellweb/repo/SearchResultRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/src/main/java/ua/kpi/ia33/shellweb/repo/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/src/main/java/ua/kpi/ia33/shellweb/service/AuthService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/src/main/java/ua/kpi/ia33/shellweb/service/SearchService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/src/main/java/ua/kpi/ia33/shellweb/web/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/src/main/java/ua/kpi/ia33/shellweb/web/SearchController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/src/main/java/ua/kpi/ia33/shellweb/web/SessionKeys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/src/main/java/ua/kpi/ia33/shellweb/web/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/src/main/java/ua/kpi/ia33/shellweb/web/WebInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/src/main/resources/application-postgres.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/src/main/resources/static/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/src/main/resources/templates/_base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/src/main/resources/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/src/main/resources/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/src/main/resources/templates/results.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/src/main/resources/templates/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/target/classes/application-postgres.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/target/classes/static/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/target/classes/templates/_base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/target/classes/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/target/classes/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/target/classes/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/target/classes/templates/results.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/target/classes/templates/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/target/classes/ua/kpi/ia33/shellweb/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/target/classes/ua/kpi/ia33/shellweb/domain/SearchQuery.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/target/classes/ua/kpi/ia33/shellweb/domain/SearchResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/target/classes/ua/kpi/ia33/shellweb/domain/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/target/classes/ua/kpi/ia33/shellweb/repo/IRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/target/classes/ua/kpi/ia33/shellweb/repo/SearchQueryRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/target/classes/ua/kpi/ia33/shellweb/repo/SearchResultRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/target/classes/ua/kpi/ia33/shellweb/repo/UserRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/target/classes/ua/kpi/ia33/shellweb/service/AuthService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/target/classes/ua/kpi/ia33/shellweb/service/SearchService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/target/classes/ua/kpi/ia33/shellweb/web/AuthController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/target/classes/ua/kpi/ia33/shellweb/web/SearchController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/target/classes/ua/kpi/ia33/shellweb/web/SessionKeys.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/target/classes/ua/kpi/ia33/shellweb/web/WebConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/shell-file-manager-web/target/classes/ua/kpi/ia33/shellweb/web/WebInterceptor.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="34Sy3yKy9yLvCiGqaKbbkZcekyg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Application.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/anzhe/Downloads/shell-file-manager-web"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26830.84" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f42bf859-dd14-4e4c-b6db-08029d13acc2" name="Changes" comment="" />
+      <created>1761221073953</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761221073953</updated>
+    </task>
+    <servers />
+  </component>
+</project>
